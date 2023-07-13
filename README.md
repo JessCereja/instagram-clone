@@ -9,7 +9,7 @@ Clone da tela de login do Instagram com animação em js.
 
 ## :paperclip:Link:paperclip:
 
-https://jesscereja.github.io/
+https://jesscereja.github.io/instagram-clone/
 
 ## Preview
 [screen-capture (1).webm](https://github.com/JessCereja/instagram-clone/assets/84471000/d67e460b-763e-4e5e-a840-b80530fec13c)
